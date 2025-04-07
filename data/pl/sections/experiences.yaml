@@ -1,0 +1,77 @@
+# informacje o sekcji
+section:
+  name: Doświadczenie zawodowe
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Można opcjonalnie ukryć tytuł sekcji
+  # hideTitle: true 
+
+# Twoje doświadczenie
+experiences:
+- company:
+    name: Accenture/Avanade
+    url: "https://www.accenture.com/us-en"
+    logo: /images/sections/experiences/Accenture2.png
+    location: Zdalnie
+    overview: Accenture/Avanade dostarcza innowacyjne usługi cyfrowe i chmurowe dla klientów korporacyjnych, wykorzystując technologie Microsoft.
+  positions:
+    - designation: Lider zespołu .NET – Rozwiązanie e-commerce dla mBanku
+      start: Wrz 2023
+      responsibilities:
+        - Kierowanie 3-osobowym zespołem deweloperów, planowanie sprintów, zarządzanie backlogiem i nadzór techniczny.
+        - Projektowanie i rozwój skalowalnych API w .NET 6–8 dla mobilnej platformy zakupowej o dużym ruchu.
+        - Implementacja pipeline’ów CI/CD z wykorzystaniem Azure DevOps i Bitbucket.
+        - Tworzenie i utrzymanie mikroserwisów zgodnie z zasadami czystej architektury.
+        - Zapewnienie wysokiego pokrycia testami jednostkowymi, integracyjnymi, kontraktowymi i E2E.
+
+    - designation: Backend Software Engineer – Aplikacja mobilna dla pielęgniarek
+      start: Mar 2023
+      end: Sie 2024
+      responsibilities:
+        - Tworzenie modułowych usług backendowych w .NET 8, hostowanych w Azure.
+        - Udział w projektowaniu API, modelowaniu domen i implementacji warstwy usług.
+
+- company:
+    name: Exadel
+    url: "https://exadel.com/"
+    logo: /images/sections/experiences/exadel_logo.jpg
+    location: Zdalnie
+    overview: Exadel to globalna firma inżynierii oprogramowania dostarczająca cyfrowe rozwiązania dla klientów korporacyjnych.
+  positions:
+    - designation: .NET Full Stack Developer (Blazor) – Oprogramowanie do zarządzania mieszkańcami
+      start: Sty 2022
+      end: Lut 2023
+      responsibilities:
+        - Dostarczanie pełnych funkcjonalności fullstack przy użyciu Blazor i .NET w monolitycznym systemie on-prem.
+        - Projektowanie i implementacja logiki domenowej, komponentów UI i warstwy dostępu do danych.
+
+    - designation: .NET Backend Software Engineer – Amerykańska firma księgowa
+      start: Lis 2021
+      end: Mar 2022
+      responsibilities:
+        - Tworzenie API REST w .NET 6 w architekturze mikroserwisowej hostowanej w chmurze (Azure).
+        - Współpraca z zespołami z USA w celu dostarczenia backendowych funkcjonalności finansowych.
+
+- company:
+    name: Way2Send
+    url: "https://way2send.co/"
+    logo: /images/sections/experiences/way2send.jpg
+    location: Warszawa, Polska
+    overview: Way2Send oferuje rozwiązania programistyczne z zakresu logistyki i komunikacji.
+  positions:
+    - designation: Lider zespołu .NET – Oprogramowanie WMS
+      start: Kwi 2021
+      end: Paź 2021
+      responsibilities:
+        - Kierowanie zespołem backendowym w projektowaniu i tworzeniu kluczowych funkcjonalności monolitycznego systemu WMS.
+        - Tworzenie wewnętrznych Web API z wykorzystaniem .NET Framework i .NET Core.
+
+    - designation: Full Stack Developer – Rozwiązanie SaaS oparte na .NET
+      start: Cze 2019
+      end: Mar 2021
+      responsibilities:
+        - Tworzenie i utrzymanie platformy SaaS wykorzystującej Angular (frontend) i C# (backend).
+        - Implementacja funkcjonalności zgodnie z wymaganiami klienta oraz zapewnianie wsparcia technicznego drugiej linii.
+        - Migracja systemu legacy z .NET Framework 3.5 do .NET Core 3.0, co poprawiło wydajność i łatwość utrzymania.

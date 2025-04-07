@@ -1,0 +1,20 @@
+# kilka informacji o Tobie
+name: "Eryk Ignatowski"
+nickname: "Eryk"
+# wiadomość powitalna przed imieniem (domyślnie: "Hi! I am")
+greeting: "Cześć, jestem"
+image: "images/author/profile2.png"
+# dane kontaktowe – będą używane w stopce
+contactInfo:
+  email: "Ignatowski.Eryk@gmail.com"
+  phone: "+48 799 718 911"
+  # github: johndoe
+  linkedin: eryk-ignatowski-80b767163
+  # researchgate: john-doe
+
+# krótki opis tego, co robisz
+summary:
+  - Jestem programistą zorientowanym na backend.
+  - Jestem przedsiębiorcą.
+  - Uwielbiam chmurę.
+  - Lubię pracować nad ciekawymi projektami.

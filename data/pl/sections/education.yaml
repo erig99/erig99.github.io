@@ -1,0 +1,19 @@
+# informacje o sekcji
+section:
+  name: Edukacja
+  id: education
+  template: sections/education.html # Użyj "sections/education-alt.html" dla alternatywnego szablonu.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Można opcjonalnie ukryć tytuł sekcji
+  # hideTitle: true
+
+degrees:
+- name: Wydział elektrotechniki, Wydział Elektryczny
+  icon: fa-microscope
+  timeframe: 2018-2021
+  institution:
+    name: Politechnika Warszawska
+    url: "https://eng.pw.edu.pl/"
+    logo: /images/sections/education/logo-PW.png

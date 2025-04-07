@@ -1,0 +1,105 @@
+# informacje o sekcji
+section:
+  name: O mnie
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# Twoje stanowisko
+designation: Inżynier Oprogramowania
+
+# informacje o firmie
+# company:
+#   name: Przykład Sp. z o.o.
+#   url: "https://www.example.com"
+
+# Twoje CV – ścieżka powinna być względna względem katalogu "static"
+# Nieaktualne. Użyj resourceLinks zamiast tego.
+# resume: "files/resume.pdf"
+
+# krótki opis o Tobie
+summary: 'Jestem pasjonatem programowania z 5-letnim doświadczeniem jako .NET Software Engineer, specjalizującym się w tworzeniu skalowalnych systemów backendowych i aplikacji webowych. Moje główne technologie to C#, ASP.NET i Entity Framework. Pracowałem nad systemami opartymi na mikroserwisach, zintegrowanymi z różnymi bazami danych i usługami chmurowymi. Lubię rozwiązywać rzeczywiste problemy przy użyciu czystej architektury i solidnego kodu. Po godzinach realizuję własne projekty – m.in. aplikacje oparte na Blazorze i fullstack.'
+
+# Twoje linki społecznościowe
+# dodaj dowolną ilość – użyj ikon z font-awesome
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "Ignatowski.Eryk@gmail.com"
+
+# - name: Github
+#   icon: "fab fa-github"
+#   url: "https://www.github.com/example"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
+
+# - name: ResearchGate
+#   icon: "fab fa-researchgate"
+#   url: "https://www.researchgate.net/profile/john-doe"
+
+# Możesz dodać niestandardowe przyciski odsyłające do zasobów
+# Na przykład link do Twojego CV
+resourceLinks:
+- title: "Moje CV"
+  url: "files/Eryk Ignatowski Resume.pdf"
+
+# Pokaż swoje odznaki
+# Możesz zaprezentować certyfikaty z https://www.credly.com.
+# Możesz też dodać wykresy kołowe poziomu umiejętności miękkich
+badges:
+- type: soft-skill-indicator
+  name: Pasja
+  percentage: 85
+  color: "#A020F0"
+
+- type: soft-skill-indicator
+  name: Odpowiedzialność
+  percentage: 95
+  color: blue
+
+- type: soft-skill-indicator
+  name: Praca zespołowa
+  percentage: 85
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Rozwiązywanie problemów
+  percentage: 95
+  color: green
+
+- type: soft-skill-indicator
+  name: Elastyczność
+  percentage: 100
+  color: "#00FFFF"
+
+- type: soft-skill-indicator
+  name: Ciągłe uczenie się
+  percentage: 85
+  color: orange
+
+# możesz także użyć kodu koloru zamiast jego nazwy
+# - type: soft-skill-indicator
+#   name: Przykład 1
+#   percentage: 75
+#   color: "#00adb5"
