@@ -11,36 +11,30 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: AZ-900
+  timeline: ""
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Microsoft
+    url: https://learn.microsoft.com/en-us/certifications/azure-fundamentals/
+  courseOverview: >
+    This certification demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure. 
+    It covers core Azure services, pricing, support, security, and governance features. 
+    It’s intended for individuals starting to work with cloud-based solutions and services.
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: AI-900
+  timeline: ""
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Microsoft
+    url: https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/
+  courseOverview: >
+    This certification provides a basic understanding of artificial intelligence (AI) and the services in Microsoft Azure that can be used to create AI solutions. 
+    It includes concepts like machine learning, computer vision, natural language processing, and conversational AI.
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: IELTS
+  timeline: ""
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
- 
-
+    name: IELTS (British Council, IDP, Cambridge)
+    url: https://www.ielts.org/
+  courseOverview: >
+    International English Language Testing System (IELTS) assesses the language ability of people who want to study or work where English is the language of communication. 
+    A C1 level demonstrates effective operational proficiency and the ability to use English flexibly in social, academic, and professional settings.
