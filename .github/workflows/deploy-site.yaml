@@ -12,12 +12,7 @@ jobs:
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v4
-    - name: Push to gh-pages
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git push origin gh-pages --force
-
+  
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v3
       with:
